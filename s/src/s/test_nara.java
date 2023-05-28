@@ -1,5 +1,6 @@
 package s;
 
-public class test_nara {
-hello
+public class test_nara 
+{
+
 }
